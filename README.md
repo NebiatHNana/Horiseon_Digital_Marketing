@@ -1,17 +1,6 @@
-# Horiseon_Digital_Marketing
-# Code Refactor Starter Code
+# Horiseon_Digital_Marketing Code Refractor Challenge
 
-#Title
-Descriptive title is inserted as"Horiseon Digital Marketing"
+About this Project
+This project is for a HTML and CSS code refactor challenge assigned by the University of Toronto coding bootcamp. The purpose of this challenge was to take the exsiting code and bring it to meet accessibilty standards as well as tiding the HTML and CSS.
 
-#Accessibility standards
 
-Every image is given an alt attribute to descirbe the image.
-
-#Semantic tags 
-Sematic tags are used is a sequence as Header, Navigation, Section, article and footer
-Screen Shot 2022-05-11 at 12.41.34 PM
-
-#CSS
-
-CSS selectors are consolidated, the class name 'hero' is changed to 'Digital Marketing', 
